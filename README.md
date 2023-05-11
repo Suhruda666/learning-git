@@ -38,6 +38,7 @@ $git branch                       // shows list of branches and current branch
 $git branch branchName             // creates a branch from the main branch
 $git checkout branchName       // switches to the created branch
 $git checkout -b branchName          // creates a new branch from the main branch as source and switches to the created branch
+$git push origin remoteBranchName  //Pushes the changes to remote branch. If the branch doesn't exist on remote git,it crates by the same push
 
 
 
