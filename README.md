@@ -32,10 +32,15 @@ b) hotfix/story-number
 c) bug/story-number
 d) story-number
 
-##How to create a branch?
+##Common GIT commands
 
-$git checkout branchName          // creates a new branch from the main branch as source
+$git branch                       // shows list of branches and current branch
+$git branch branchName             // creates a branch from the main branch
+$git checkout branchName       // switches to the created branch
+$git checkout -b branchName          // creates a new branch from the main branch as source and switches to the created branch
 
 
+
+git and linux are like oceans, infinite things are there to learn. Both of them are created by the same person : Linus Torvalds
 
 
