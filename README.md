@@ -42,6 +42,6 @@ $git push origin remoteBranchName  //Pushes the changes to remote branch. If the
 
 whenever you push any changes and if they look good and stable on main branch, then you will raise or create a git tag
 
-git tag: almost like a tag attached to the jar-creating a name to a commit which can be referred later
+git tag: almost like a tag attached to the jar-creating a name to a commit which can be referred later and using  that we can make the software
 
 git and linux are like oceans, infinite things are there to learn. Both of them are created by the same person : Linus Torvalds
