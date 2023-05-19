@@ -40,8 +40,8 @@ $git checkout branchName       // switches to the created branch
 $git checkout -b branchName          // creates a new branch from the main branch as source and switches to the created branch
 $git push origin remoteBranchName  //Pushes the changes to remote branch. If the branch doesn't exist on remote git,it crates by the same push
 
+whenever you push any changes and if they look good and stable on main branch, then you will raise or create a git tag
 
+git tag: almost like a tag attached to the jar
 
 git and linux are like oceans, infinite things are there to learn. Both of them are created by the same person : Linus Torvalds
-
-
